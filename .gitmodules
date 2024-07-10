@@ -1,0 +1,6 @@
+[submodule "vega"]
+	path = vega
+	url = https://github.com/andreicuceu/vega
+[submodule "qsonic"]
+	path = qsonic
+	url = https://github.com/p-slash/qsonic/
