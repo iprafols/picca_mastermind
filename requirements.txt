@@ -1,0 +1,2 @@
+-e picca_mastermind/qsonic
+-e picca_mastermind/vega

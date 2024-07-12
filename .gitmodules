@@ -1,6 +1,6 @@
 [submodule "vega"]
-	path = vega
+	path = picca_mastermind/vega
 	url = https://github.com/andreicuceu/vega
 [submodule "qsonic"]
-	path = qsonic
+	path = picca_mastermind/qsonic
 	url = https://github.com/p-slash/qsonic/

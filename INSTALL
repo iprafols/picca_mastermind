@@ -1,0 +1,5 @@
+`conda create --name picca_mastermind python==3.10`
+`conda activate picca_mastermind`
+`conda install mpy4py`
+`pip install -r requirements.txt`
+`pip install -e .`
